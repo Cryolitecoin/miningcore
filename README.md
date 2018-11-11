@@ -19,6 +19,14 @@
 - Detailed per-pool logging to console & filesystem
 - Runs on Linux and Windows
 
+  ## *Any donations are greatly appreciated:* ##  #
+#
+#Monero
+ 43ZsP6ZooeygK9DebCf67JjQuicTk1onjR1epuPTdk27cSpoPeKGjwSRrBuUUM3xCSQyZ6ghtBVbJN2pKBXGprqCFmtfSkh
+
+#Aeon
+ Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51
+
 ### Supported Coins
 
 Refer to [this file](https://github.com/coinfoundry/miningcore/blob/master/src/Miningcore/coins.json) for a complete list.
@@ -41,15 +49,11 @@ Miningcore implements the [Ethereum stratum mining protocol](https://github.com/
 
 This software comes with a built-in donation of 0.1% per block-reward to support the ongoing development of this project. You can also send donations directly to the following accounts:
 
-* BTC:  `17QnVor1B6oK1rWnVVBrdX9gFzVkZZbhDm`
-* LTC:  `LTK6CWastkmBzGxgQhTTtCUjkjDA14kxzC`
-* DOGE: `DGDuKRhBewGP1kbUz4hszNd2p6dDzWYy9Q`
-* ETH:  `0xcb55abBfe361B12323eb952110cE33d5F28BeeE1`
-* ETC:  `0xF8cCE9CE143C68d3d4A7e6bf47006f21Cfcf93c0`
-* DASH: `XqpBAV9QCaoLnz42uF5frSSfrJTrqHoxjp`
-* ZEC:  `t1YHZHz2DGVMJiggD2P4fBQ2TAPgtLSUwZ7`
-* BTG:  `GQb77ZuMCyJGZFyxpzqNfm7GB1rQreP4n6`
-* XMR: `475YVJbPHPedudkhrcNp1wDcLMTGYusGPF5fqE7XjnragVLPdqbCHBdZg3dF4dN9hXMjjvGbykS6a77dTAQvGrpiQqHp2eH`
+#Monero
+ 43ZsP6ZooeygK9DebCf67JjQuicTk1onjR1epuPTdk27cSpoPeKGjwSRrBuUUM3xCSQyZ6ghtBVbJN2pKBXGprqCFmtfSkh
+
+#Aeon
+ Wmswvbsac7eZ7pZEbey9nmgoZPjtwBAwRh7Qgm1xHVwF6hcnH43r2vX3hLTKARSrvtH8g4wJtEXS9V3Axz1Y2m8P2uqXEZi51
 
 ### Runtime Requirements on Windows
 
